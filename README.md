@@ -23,6 +23,6 @@
 <summary>📁 OSINT</summary>
 
 - [Ahmia](https://ahmia.fi/) — A search engine for the Tor network, providing access to .onion sites.
-- [Startpage](https://www.startpage.com/en/) — A privacy-focused search engine that does not track users.
+- [Startpage](https://www.startpage.com) — A privacy-focused search engine that does not track users.
 
 </details>
