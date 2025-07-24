@@ -70,7 +70,5 @@
 - [TIO.run](https://tio.run) — An online tool for running code in various programming languages.
 - [Crontab Generator](https://crontab-generator.org) — A tool for generating crontab entries.
 - [Crontab Guru](https://crontab.guru) — A simple tool to help you understand and create cron expressions.
-- [Dan's Tools](https://www.danstools.com/) — A collection of various online tools for developers and webmasters.
-- [Transform Tools](https://transform.tools) — A suite of tools for transforming and manipulating data formats.
 
 </details>
