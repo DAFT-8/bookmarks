@@ -34,9 +34,9 @@
 - [Fofa](https://en.fofa.info/subject) — A search engine for IoT devices and services.
 - [Tineye](https://tineye.com) — A reverse image search engine.
 - [PimEyes](https://pimeyes.com) — A facial recognition search engine.
-- [Epieos](https://epieos.com) — A service for checking email availability across various platforms.
+- [Epieos](https://epieos.com) — A service for checking phone availability across various platforms.
 - [NameCheckup](https://namecheckup.com) — A tool for checking username availability across various platforms.
-- [WhatsMyName](https://whatsmyname.app) — A tool for checking username availability across various platforms.
+- [WhatsMyName](https://whatsmyname.app) — An app that helps users find available usernames on various social networks and websites.
 - [Online EXIF Viewer](https://onlineexifviewer.com) — A tool for viewing EXIF data from images.
 - [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
 - [Grep.app](https://grep.app) — A web-based tool for searching through code repositories using grep.
