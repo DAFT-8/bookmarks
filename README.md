@@ -10,6 +10,7 @@
 
 - [Guerrilla Mail](https://www.guerrillamail.com) — A temporary email service for disposable email addresses.
 - [Temp Mail](https://temp-mail.io) — A service that provides temporary email addresses for anonymous communication.
+- [Temp-Mail](https://temp-mail.org) — A temporary email service for receiving emails without revealing your real address.
 - [Transfer.it](https://transfer.it) — A service for transferring files securely and easily.
 - [Paste.rs](https://paste.rs/web) — A simple pastebin service for sharing text snippets.
 
@@ -38,6 +39,7 @@
 - [WhatsMyName](https://whatsmyname.app) — A tool for checking username availability across various platforms.
 - [Online EXIF Viewer](https://onlineexifviewer.com) — A tool for viewing EXIF data from images.
 - [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
+- [Grep.app](https://grep.app) — A web-based tool for searching through code repositories using grep.
 
 </details>
 
@@ -56,7 +58,6 @@
 - [CyberChef](https://gchq.github.io/CyberChef) — A web app for encryption, encoding, compression, and data analysis.
 - [CrackStation](https://crackstation.net) — A free online password cracking tool.
 - [Hashes](https://hashes.com) — A service for cracking password hashes.
-- [Crontab Generator](https://crontab-generator.org) — A tool for generating crontab entries.
 
 </details>
 
@@ -67,5 +68,9 @@
 - [Debuggex](https://www.debuggex.com) — A visual regex tester.
 - [Decompiler](https://www.decompiler.com) — A tool for decompiling various programming languages.
 - [TIO.run](https://tio.run) — An online tool for running code in various programming languages.
+- [Crontab Generator](https://crontab-generator.org) — A tool for generating crontab entries.
+- [Crontab Guru](https://crontab.guru) — A simple tool to help you understand and create cron expressions.
+- [Dan's Tools](https://www.danstools.com/) — A collection of various online tools for developers and webmasters.
+- [Transform Tools](https://transform.tools) — A suite of tools for transforming and manipulating data formats.
 
 </details>
