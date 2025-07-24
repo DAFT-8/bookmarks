@@ -2,6 +2,7 @@
 <summary>📁 AI</summary>
 
 - [Duck.ai](https://duck.ai) — An AI-powered search engine that emphasizes privacy.
+- [Lumo](https://lumo.proton.me) — A private AI assistant with encrypted chats and a no-log policy.
 
 </details>
 
@@ -40,6 +41,7 @@
 - [Online EXIF Viewer](https://onlineexifviewer.com) — A tool for viewing EXIF data from images.
 - [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
 - [Grep.app](https://grep.app) — A web-based tool for searching through code repositories using grep.
+- [OpenStreetMap](https://www.openstreetmap.org) — A collaborative mapping project that provides free geographic data and mapping to anyone.
 
 </details>
 
