@@ -1,5 +1,3 @@
-# Resource Directory
-
 <details>
 <summary>📁 AI</summary>
 
