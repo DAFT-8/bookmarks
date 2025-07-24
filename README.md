@@ -37,6 +37,7 @@
 - [NameCheckup](https://namecheckup.com) — A tool for checking username availability across various platforms.
 - [WhatsMyName](https://whatsmyname.app) — A tool for checking username availability across various platforms.
 - [Online EXIF Viewer](https://onlineexifviewer.com) — A tool for viewing EXIF data from images.
+- [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
 
 </details>
 
@@ -44,12 +45,15 @@
 <summary>📁 Security</summary>
 
 - [Exploit Database](https://www.exploit-db.com) — A database of exploits and vulnerable software.
+- [RevShells](https://www.revshells.com) — A collection of reverse shells for penetration testing.
 - [GTFObins](https://gtfobins.github.io) — A curated list of Unix binaries that can be exploited for privilege escalation.
 - [LOLbins](https://lolbas-project.github.io) — A collection of Windows binaries that can be used for living off the land attacks.
 - [HackTricks](https://www.hacktricks.wiki) — A collection of hacking techniques and resources.
+- [OffSec Tools](https://offsec.tools) — A curated list of tools for penetration testing and security assessments.
 - [Open Bug Bounty](https://www.openbugbounty.org) — A platform for responsible disclosure of vulnerabilities.
 - [Bug Bounty Hunter](https://www.bugbountyhunter.com/disclosed) — A resource for finding disclosed vulnerabilities.
 - [CVE](https://www.cve.org) — A list of publicly disclosed cybersecurity vulnerabilities.
+- [CyberChef](https://gchq.github.io/CyberChef) — A web app for encryption, encoding, compression, and data analysis.
 - [CrackStation](https://crackstation.net) — A free online password cracking tool.
 - [Hashes](https://hashes.com) — A service for cracking password hashes.
 - [Crontab Generator](https://crontab-generator.org) — A tool for generating crontab entries.
@@ -61,5 +65,7 @@
 
 - [Regex101](https://regex101.com) — An online regex tester and debugger.
 - [Debuggex](https://www.debuggex.com) — A visual regex tester.
+- [Decompiler](https://www.decompiler.com) — A tool for decompiling various programming languages.
+- [TIO.run](https://tio.run) — An online tool for running code in various programming languages.
 
 </details>
