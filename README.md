@@ -10,6 +10,8 @@
 
 - [Guerrilla Mail](https://www.guerrillamail.com) — A temporary email service for disposable email addresses.
 - [Temp Mail](https://temp-mail.io) — A service that provides temporary email addresses for anonymous communication.
+- [Transfer.it](https://transfer.it) — A service for transferring files securely and easily.
+- [Paste.rs](https://paste.rs/web) — A simple pastebin service for sharing text snippets.
 
 </details>
 
@@ -31,7 +33,9 @@
 - [Fofa](https://en.fofa.info/subject) — A search engine for IoT devices and services.
 - [Tineye](https://tineye.com) — A reverse image search engine.
 - [PimEyes](https://pimeyes.com) — A facial recognition search engine.
+- [Epieos](https://epieos.com) — A service for checking email availability across various platforms.
 - [NameCheckup](https://namecheckup.com) — A tool for checking username availability across various platforms.
+- [WhatsMyName](https://whatsmyname.app) — A tool for checking username availability across various platforms.
 - [Online EXIF Viewer](https://onlineexifviewer.com) — A tool for viewing EXIF data from images.
 
 </details>
