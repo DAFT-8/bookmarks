@@ -10,8 +10,7 @@
 <summary>📁 Disposable</summary>
 
 - [Guerrilla Mail](https://www.guerrillamail.com) — A temporary email service for disposable email addresses.
-- [Temp Mail](https://temp-mail.io) — A service that provides temporary email addresses for anonymous communication.
-- [Temp-Mail](https://temp-mail.org) — A temporary email service for receiving emails without revealing your real address.
+- [Temp Mail](https://temp-mail.org) — A temporary email service for receiving emails without revealing your real address.
 - [Transfer.it](https://transfer.it) — A service for transferring files securely and easily.
 - [Paste.rs](https://paste.rs/web) — A simple pastebin service for sharing text snippets.
 
