@@ -9,6 +9,7 @@
 <details>
 <summary>📁 Disposable</summary>
 
+- [Emkei.cz](https://emkei.cz) — An online tool for generating fake email addresses.
 - [Guerrilla Mail](https://www.guerrillamail.com) — A temporary email service for disposable email addresses.
 - [Temp Mail](https://temp-mail.org) — A temporary email service for receiving emails without revealing your real address.
 - [Transfer.it](https://transfer.it) — A service for transferring files securely and easily.
@@ -24,10 +25,19 @@
 </details>
 
 <details>
+<summary>📁 Onion</summary>
+
+- [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) — A search engine for the Tor network, providing access to .onion sites.
+- [Onion Search Engine](http://37djtvjcpiprohcrlyvlhfil45kdlfizsyvilqskgvdrafn5mocz4cid.onion) — A search engine for .onion sites on the dark web.
+
+</details>
+
+<details>
 <summary>📁 OSINT</summary>
 
-- [Ahmia](https://ahmia.fi) — A search engine for the Tor network, providing access to .onion sites.
+- [Dork Search](https://dorksearch.com) — A search engine for Google dorks, helping users find specific information through advanced search queries.
 - [Startpage](https://www.startpage.com) — A privacy-focused search engine that does not track users.
+- [Archive.ph](https://archive.ph) — A web archiving service that captures and stores web pages.
 - [Web Archive](https://web.archive.org) — A digital archive of the web, allowing users to view past versions of websites.
 - [Shodan](https://www.shodan.io) — A search engine for Internet-connected devices.
 - [Censys](https://search.censys.io) — A search engine that helps researchers find and analyze devices and services exposed to the internet.
@@ -41,6 +51,7 @@
 - [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
 - [Grep.app](https://grep.app) — A web-based tool for searching through code repositories using grep.
 - [OpenStreetMap](https://www.openstreetmap.org) — A collaborative mapping project that provides free geographic data and mapping to anyone.
+- [Vehicle AI](https://vehicle-ai.vercel.app) — A web application for vehicle recognition and analysis using AI.
 
 </details>
 
@@ -48,17 +59,21 @@
 <summary>📁 Security</summary>
 
 - [Exploit Database](https://www.exploit-db.com) — A database of exploits and vulnerable software.
+- [Sploitus](https://sploitus.com) — A search engine for exploits and vulnerabilities.
 - [RevShells](https://www.revshells.com) — A collection of reverse shells for penetration testing.
 - [GTFObins](https://gtfobins.github.io) — A curated list of Unix binaries that can be exploited for privilege escalation.
 - [LOLbins](https://lolbas-project.github.io) — A collection of Windows binaries that can be used for living off the land attacks.
 - [HackTricks](https://www.hacktricks.wiki) — A collection of hacking techniques and resources.
 - [OffSec Tools](https://offsec.tools) — A curated list of tools for penetration testing and security assessments.
-- [Open Bug Bounty](https://www.openbugbounty.org) — A platform for responsible disclosure of vulnerabilities.
 - [Bug Bounty Hunter](https://www.bugbountyhunter.com/disclosed) — A resource for finding disclosed vulnerabilities.
+- [Open Bug Bounty](https://www.openbugbounty.org) — A platform for responsible disclosure of vulnerabilities.
+- [OpenCVE](https://app.opencve.io/cve) — A platform for tracking and managing CVEs (Common Vulnerabilities and Exposures).
 - [CVE](https://www.cve.org) — A list of publicly disclosed cybersecurity vulnerabilities.
 - [CyberChef](https://gchq.github.io/CyberChef) — A web app for encryption, encoding, compression, and data analysis.
 - [CrackStation](https://crackstation.net) — A free online password cracking tool.
 - [Hashes](https://hashes.com) — A service for cracking password hashes.
+- [Any.run](https://any.run) — An interactive malware analysis service that allows users to run and analyze suspicious files.
+- [VirusTotal](https://www.virustotal.com) — A service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malware.
 
 </details>
 
