@@ -35,6 +35,7 @@
 <details>
 <summary>📁 OSINT</summary>
 
+- [OSINT Framework](https://osintframework.com) — A comprehensive collection of OSINT tools organized by category.
 - [Dork Search](https://dorksearch.com) — A search engine for Google dorks, helping users find specific information through advanced search queries.
 - [Startpage](https://www.startpage.com) — A privacy-focused search engine that does not track users.
 - [Archive.ph](https://archive.ph) — A web archiving service that captures and stores web pages.
