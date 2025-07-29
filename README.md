@@ -32,7 +32,6 @@
 - [OSINT Framework](https://osintframework.com) — A comprehensive collection of OSINT tools organized by category.
 - [Dork Search](https://dorksearch.com) — A search engine for Google dorks, helping users find specific information through advanced search queries.
 - [Startpage](https://www.startpage.com) — A privacy-focused search engine that does not track users.
-- [Archive.ph](https://archive.ph) — A web archiving service that captures and stores web pages.
 - [Web Archive](https://web.archive.org) — A digital archive of the web, allowing users to view past versions of websites.
 - [Shodan](https://www.shodan.io) — A search engine for Internet-connected devices.
 - [Censys](https://search.censys.io) — A search engine that helps researchers find and analyze devices and services exposed to the internet.
