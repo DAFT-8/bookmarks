@@ -31,6 +31,7 @@
 
 - [OSINT Framework](https://osintframework.com) — A comprehensive collection of OSINT tools organized by category.
 - [Dork Search](https://dorksearch.com) — A search engine for Google dorks, helping users find specific information through advanced search queries.
+- [Information Laundromat](https://informationlaundromat.com) — A resource for understanding data privacy and security.
 - [Startpage](https://www.startpage.com) — A privacy-focused search engine that does not track users.
 - [Web Archive](https://web.archive.org) — A digital archive of the web, allowing users to view past versions of websites.
 - [Shodan](https://www.shodan.io) — A search engine for Internet-connected devices.
@@ -41,10 +42,13 @@
 - [Epieos](https://epieos.com) — A service for checking phone availability across various platforms.
 - [NameCheckup](https://namecheckup.com) — A tool for checking username availability across various platforms.
 - [WhatsMyName](https://whatsmyname.app) — An app that helps users find available usernames on various social networks and websites.
+- [Digital Footprint Check](https://www.digitalfootprintcheck.com) — A tool to assess your online presence and privacy.
 - [Online EXIF Viewer](https://onlineexifviewer.com) — A tool for viewing EXIF data from images.
 - [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
+- [Pentester](https://pentester.com) — A platform for penetration testing and security assessments.
 - [Grep.app](https://grep.app) — A web-based tool for searching through code repositories using grep.
 - [OpenStreetMap](https://www.openstreetmap.org) — A collaborative mapping project that provides free geographic data and mapping to anyone.
+- [Instant Street View](https://www.instantstreetview.com) — A tool for viewing street-level imagery instantly.
 - [Vehicle AI](https://vehicle-ai.vercel.app) — A web application for vehicle recognition and analysis using AI.
 
 </details>
@@ -68,6 +72,8 @@
 - [Hashes](https://hashes.com) — A service for cracking password hashes.
 - [Any.run](https://any.run) — An interactive malware analysis service that allows users to run and analyze suspicious files.
 - [VirusTotal](https://www.virustotal.com) — A service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malware.
+- [Web Check](https://web-check.xyz) — A service for checking website security and vulnerabilities.
+- [Firecrawl](https://www.firecrawl.dev) — A web application security testing tool.
 
 </details>
 
