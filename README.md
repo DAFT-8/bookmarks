@@ -21,6 +21,7 @@
 <details>
 <summary>📁 Onion</summary>
 
+- [Mullvad Leta](http://uxngojcovdcyrmwkmkltyy2q7enzzvgv7vlqac64f2vl6hcrrqtlskqd.onion) — A privacy-centric search engine accessible via Tor.
 - [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) — A search engine for the Tor network, providing access to .onion sites.
 - [Onion Search Engine](http://37djtvjcpiprohcrlyvlhfil45kdlfizsyvilqskgvdrafn5mocz4cid.onion) — A search engine for .onion sites on the dark web.
 - [The Pirate Bay](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion) — A popular torrent site for sharing files.
