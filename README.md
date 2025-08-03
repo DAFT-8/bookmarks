@@ -24,7 +24,7 @@
 - [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) — A search engine for the Tor network, providing access to .onion sites.
 - [Onion Search Engine](http://37djtvjcpiprohcrlyvlhfil45kdlfizsyvilqskgvdrafn5mocz4cid.onion) — A search engine for .onion sites on the dark web.
 - [The Pirate Bay](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion) — A popular torrent site for sharing files.
-- [Lufi](http://e2olmnzdp5d72z3xs2ugftvwgxywgbgipofa443zizolbgxoj5m46vyd.onion) — A free encrypted file hosting software available on the dark web.
+- [Lufi](http://e2olmnzdp5d72z3xs2ugftvwgxywgbgipofa443zizolbgxoj5m46vyd.onion) — A free encrypted file hosting service available on the dark web.
 
 </details>
 
@@ -50,13 +50,13 @@
 - [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
 - [Pentester](https://pentester.com) — A platform for penetration testing and security assessments.
 - [Grep.app](https://grep.app) — A web-based tool for searching through code repositories using grep.
-- [Satellites.pro](https://satellites.pro) — A platform for tracking satellites and their orbits in real-time.
+- [Satellites.pro](https://satellites.pro) — A platform that offers a satellite view of the Earth.
 - [OpenStreetMap](https://www.openstreetmap.org) — A collaborative mapping project that provides free geographic data and mapping to anyone.
 - [Instant Street View](https://www.instantstreetview.com) — A tool for viewing street-level imagery instantly.
 - [Vehicle AI](https://vehicle-ai.vercel.app) — A web application for vehicle recognition and analysis using AI.
 - [MarineTraffic](https://www.marinetraffic.com) — A platform for tracking ships and maritime traffic globally.
 - [Flightradar24](https://www.flightradar24.com) — A flight tracking service that provides real-time information on air traffic.
-- [WifiSPC](https://wifispc.com) — A tool for analyzing Wi-Fi networks and their security.
+- [WifiSPC](https://wifispc.com) — A web application that displays nearby Wi-Fi networks and hotspots.
 
 </details>
 
