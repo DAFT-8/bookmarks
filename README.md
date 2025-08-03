@@ -95,6 +95,6 @@
 - [Godbolt](https://godbolt.org) — An online compiler explorer for various programming languages.
 - [Crontab Generator](https://crontab-generator.org) — A tool for generating crontab entries.
 - [Crontab Guru](https://crontab.guru) — A simple tool to help you understand and create cron expressions.
-- [SQLable](https://sqlable.com) — A tool for converting natural language into SQL queries.
+- [SQLable](https://sqlable.com) — A tool for generating SQL queries, managing your SQL and database tasks.
 
 </details>
