@@ -47,7 +47,6 @@
 - [NameCheckup](https://namecheckup.com) — A tool for checking username availability across various platforms.
 - [WhatsMyName](https://whatsmyname.app) — An app that helps users find available usernames on various social networks and websites.
 - [Digital Footprint Check](https://www.digitalfootprintcheck.com) — A tool to assess your online presence and privacy.
-- [Online EXIF Viewer](https://onlineexifviewer.com) — A tool for viewing EXIF data from images.
 - [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
 - [Pentester](https://pentester.com) — A platform for penetration testing and security assessments.
 - [Grep.app](https://grep.app) — A web-based tool for searching through code repositories using grep.
