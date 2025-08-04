@@ -34,7 +34,7 @@
 
 - [OSINT Framework](https://osintframework.com) — A comprehensive collection of OSINT tools organized by category.
 - [Dork Search](https://dorksearch.com) — A search engine for Google dorks, helping users find specific information through advanced search queries.
-- [Information Laundromat](https://informationlaundromat.com) — A resource for understanding data privacy and security.
+- [Information Laundromat](https://informationlaundromat.com) — A search engine for investigate content relationships from across the infosphere.
 - [Webmii](https://webmii.com) — A search engine for people and businesses that aggregates information from various sources.
 - [Startpage](https://www.startpage.com) — A privacy-focused search engine that does not track users.
 - [Web Archive](https://web.archive.org) — A digital archive of the web, allowing users to view past versions of websites.
