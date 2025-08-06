@@ -72,7 +72,7 @@
 - [OffSec Tools](https://offsec.tools) — A curated list of tools for penetration testing and security assessments.
 - [Bug Bounty Hunter](https://www.bugbountyhunter.com/disclosed) — A resource for finding disclosed vulnerabilities.
 - [Open Bug Bounty](https://www.openbugbounty.org) — A platform for responsible disclosure of vulnerabilities.
-- [Android Source](https://cs.android.com) — The official source code repository for Android, providing access to the Android platform's codebase.
+- [Android Source](https://cs.android.com) — An official source code repository for Android, providing access to the Android platform's codebase.
 - [OpenCVE](https://app.opencve.io/cve) — A platform for tracking and managing CVEs (Common Vulnerabilities and Exposures).
 - [CVE](https://www.cve.org) — A list of publicly disclosed cybersecurity vulnerabilities.
 - [CyberChef](https://gchq.github.io/CyberChef) — A web app for encryption, encoding, compression, and data analysis.
