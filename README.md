@@ -68,7 +68,6 @@
 - [RevShells](https://www.revshells.com) — A collection of reverse shells for penetration testing.
 - [GTFObins](https://gtfobins.github.io) — A curated list of Unix binaries that can be exploited for privilege escalation.
 - [LOLbins](https://lolbas-project.github.io) — A collection of Windows binaries that can be used for living off the land attacks.
-- [HackTricks](https://www.hacktricks.wiki) — A collection of hacking techniques and resources.
 - [OffSec Tools](https://offsec.tools) — A curated list of tools for penetration testing and security assessments.
 - [Bug Bounty Hunter](https://www.bugbountyhunter.com/disclosed) — A resource for finding disclosed vulnerabilities.
 - [Open Bug Bounty](https://www.openbugbounty.org) — A platform for responsible disclosure of vulnerabilities.
