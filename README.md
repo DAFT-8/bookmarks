@@ -63,11 +63,8 @@
 <details>
 <summary>📁 Security</summary>
 
-- [Exploit Database](https://www.exploit-db.com) — A database of exploits and vulnerable software.
 - [Sploitus](https://sploitus.com) — A search engine for exploits and vulnerabilities.
 - [RevShells](https://www.revshells.com) — A collection of reverse shells for penetration testing.
-- [GTFObins](https://gtfobins.github.io) — A curated list of Unix binaries that can be exploited for privilege escalation.
-- [LOLbins](https://lolbas-project.github.io) — A collection of Windows binaries that can be used for living off the land attacks.
 - [OffSec Tools](https://offsec.tools) — A curated list of tools for penetration testing and security assessments.
 - [Bug Bounty Hunter](https://www.bugbountyhunter.com/disclosed) — A resource for finding disclosed vulnerabilities.
 - [Open Bug Bounty](https://www.openbugbounty.org) — A platform for responsible disclosure of vulnerabilities.
