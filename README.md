@@ -24,7 +24,6 @@
 
 - [Mullvad Leta](http://uxngojcovdcyrmwkmkltyy2q7enzzvgv7vlqac64f2vl6hcrrqtlskqd.onion) — A privacy-centric search engine accessible via Tor.
 - [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) — A search engine for the Tor network, providing access to .onion sites.
-- [Onion Search Engine](http://37djtvjcpiprohcrlyvlhfil45kdlfizsyvilqskgvdrafn5mocz4cid.onion) — A search engine for .onion sites on the dark web.
 - [The Pirate Bay](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion) — A popular torrent site for sharing files.
 - [Lufi](http://e2olmnzdp5d72z3xs2ugftvwgxywgbgipofa443zizolbgxoj5m46vyd.onion) — A free encrypted file hosting service available on the dark web.
 
@@ -63,22 +62,8 @@
 <details>
 <summary>📁 Security</summary>
 
-- [Sploitus](https://sploitus.com) — A search engine for exploits and vulnerabilities.
-- [RevShells](https://www.revshells.com) — A collection of reverse shells for penetration testing.
 - [OffSec Tools](https://offsec.tools) — A curated list of tools for penetration testing and security assessments.
-- [Bug Bounty Hunter](https://www.bugbountyhunter.com/disclosed) — A resource for finding disclosed vulnerabilities.
-- [Open Bug Bounty](https://www.openbugbounty.org) — A platform for responsible disclosure of vulnerabilities.
-- [Android Source](https://cs.android.com) — An official source code repository for Android, providing access to the Android platform's codebase.
-- [OpenCVE](https://app.opencve.io/cve) — A platform for tracking and managing CVEs (Common Vulnerabilities and Exposures).
-- [CVE](https://www.cve.org) — A list of publicly disclosed cybersecurity vulnerabilities.
-- [CyberChef](https://gchq.github.io/CyberChef) — A web app for encryption, encoding, compression, and data analysis.
-- [CrackStation](https://crackstation.net) — A free online password cracking tool.
-- [Hashes](https://hashes.com) — A service for cracking password hashes.
-- [Any.run](https://any.run) — An interactive malware analysis service that allows users to run and analyze suspicious files.
-- [VirusTotal](https://www.virustotal.com) — A service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malware.
 - [Web Check](https://web-check.xyz) — A service for checking website security and vulnerabilities.
-- [Firecrawl](https://www.firecrawl.dev) — A web application security testing tool.
-- [Canarytokens](https://canarytokens.org) — A service for creating honeypots to detect unauthorized access.
 
 </details>
 
@@ -86,11 +71,9 @@
 <summary>📁 Misc</summary>
 
 - [Regex101](https://regex101.com) — An online regex tester and debugger.
-- [Debuggex](https://www.debuggex.com) — A visual regex tester.
-- [Decompiler](https://www.decompiler.com) — A tool for decompiling various programming languages.
 - [TIO.run](https://tio.run) — An online tool for running code in various programming languages.
 - [Godbolt](https://godbolt.org) — An online compiler explorer for various programming languages.
-- [Crontab Generator](https://crontab-generator.org) — A tool for generating crontab entries.
+- [Decompiler](https://www.decompiler.com) — A tool for decompiling various programming languages.
 - [Crontab Guru](https://crontab.guru) — A simple tool to help you understand and create cron expressions.
 - [SQLable](https://sqlable.com) — A tool for generating SQL queries, managing your SQL and database tasks.
 
