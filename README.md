@@ -66,15 +66,3 @@
 - [Web Check](https://web-check.xyz) — A service for checking website security and vulnerabilities.
 
 </details>
-
-<details>
-<summary>📁 Misc</summary>
-
-- [Regex101](https://regex101.com) — An online regex tester and debugger.
-- [TIO.run](https://tio.run) — An online tool for running code in various programming languages.
-- [Godbolt](https://godbolt.org) — An online compiler explorer for various programming languages.
-- [Decompiler](https://www.decompiler.com) — A tool for decompiling various programming languages.
-- [Crontab Guru](https://crontab.guru) — A simple tool to help you understand and create cron expressions.
-- [SQLable](https://sqlable.com) — A tool for generating SQL queries, managing your SQL and database tasks.
-
-</details>
