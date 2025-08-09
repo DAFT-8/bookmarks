@@ -1,15 +1,9 @@
 <details>
-<summary>📁 AI</summary>
-
-- [Duck.ai](https://duck.ai) — An AI-powered search engine that emphasizes privacy.
-- [Lumo](https://lumo.proton.me) — A private AI assistant with encrypted chats and a no-log policy.
-
-</details>
-
-<details>
 <summary>📁 Disposable</summary>
 
 - [Startpage](https://www.startpage.com) — A privacy-focused search engine that does not track users.
+- [Duck.ai](https://duck.ai) — An AI-powered search engine that emphasizes privacy.
+- [Lumo](https://lumo.proton.me) — A private AI assistant with encrypted chats and a no-log policy.
 - [Emkei.cz](https://emkei.cz) — An online tool for generating fake email addresses.
 - [Guerrilla Mail](https://www.guerrillamail.com) — A temporary email service for disposable email addresses.
 - [Temp Mail](https://temp-mail.org) — A temporary email service for receiving emails without revealing your real address.
