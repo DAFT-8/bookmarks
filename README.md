@@ -56,6 +56,7 @@
 <details>
 <summary>📁 Security</summary>
 
+- [Kali Tools](https://www.kali.org/tools/all-tools) — A curated list of security tools.
 - [OffSec Tools](https://offsec.tools/browse/alphabet) — A curated list of tools for penetration testing and security assessments.
 - [Web Check](https://web-check.xyz) — A service for checking website security and vulnerabilities.
 
