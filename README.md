@@ -26,23 +26,15 @@
 <details>
 <summary>📁 OSINT</summary>
 
-- [OSINT Framework](https://osintframework.com) — A comprehensive collection of OSINT tools organized by category.
 - [Dork Search](https://dorksearch.com) — A search engine for Google dorks, helping users find specific information through advanced search queries.
-- [Information Laundromat](https://informationlaundromat.com) — A search engine for investigate content relationships from across the infosphere.
 - [Webmii](https://webmii.com) — A search engine for people and businesses that aggregates information from various sources.
-- [Web Archive](https://web.archive.org) — A digital archive of the web, allowing users to view past versions of websites.
-- [Shodan](https://www.shodan.io) — A search engine for Internet-connected devices.
-- [Censys](https://search.censys.io) — A search engine that helps researchers find and analyze devices and services exposed to the internet.
+- [Information Laundromat](https://informationlaundromat.com) — A search engine for investigate content relationships from across the infosphere.
 - [Fofa](https://en.fofa.info/subject) — A search engine for IoT devices and services.
 - [Tineye](https://tineye.com) — A reverse image search engine.
 - [PimEyes](https://pimeyes.com) — A facial recognition search engine.
 - [Epieos](https://epieos.com) — A service for checking phone availability across various platforms.
-- [NameCheckup](https://namecheckup.com) — A tool for checking username availability across various platforms.
-- [WhatsMyName](https://whatsmyname.app) — An app that helps users find available usernames on various social networks and websites.
 - [Digital Footprint Check](https://www.digitalfootprintcheck.com) — A tool to assess your online presence and privacy.
-- [Have I Been Pwned](https://haveibeenpwned.com) — A service that allows you to check if an email has been compromised in a data breach.
 - [Pentester](https://pentester.com) — A platform for discover your digital footprint.
-- [Grep.app](https://grep.app) — A web-based tool for searching through code repositories using grep.
 - [Satellites.pro](https://satellites.pro) — A platform that offers a satellite view of the Earth.
 - [OpenStreetMap](https://www.openstreetmap.org) — A collaborative mapping project that provides free geographic data and mapping to anyone.
 - [Instant Street View](https://www.instantstreetview.com) — A tool for viewing street-level imagery instantly.
@@ -58,6 +50,5 @@
 
 - [Kali Tools](https://www.kali.org/tools/all-tools) — A curated list of security tools.
 - [OffSec Tools](https://offsec.tools/browse/alphabet) — A curated list of tools for penetration testing and security assessments.
-- [Web Check](https://web-check.xyz) — A service for checking website security and vulnerabilities.
 
 </details>
