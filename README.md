@@ -9,6 +9,7 @@
 - [Temp Mail](https://temp-mail.org) — A temporary email service for receiving emails without revealing your real address.
 - [Transfer.it](https://transfer.it) — A service for transferring files securely and easily.
 - [Paste.rs](https://paste.rs/web) — A simple pastebin service for sharing text snippets.
+- [Da.gd](https://da.gd) — A URL shortener with various other utilities.
 - [Riseup Pad](https://pad.riseup.net) — A real-time collaborative text editor for group work and brainstorming.
 
 </details>
