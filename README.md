@@ -39,7 +39,6 @@
 - [Satellites.pro](https://satellites.pro) — A platform that offers a satellite view of the Earth.
 - [OpenStreetMap](https://www.openstreetmap.org) — A collaborative mapping project that provides free geographic data and mapping to anyone.
 - [Instant Street View](https://www.instantstreetview.com) — A tool for viewing street-level imagery instantly.
-- [Vehicle AI](https://vehicle-ai.vercel.app) — A web application for vehicle recognition and analysis using AI.
 - [MarineTraffic](https://www.marinetraffic.com) — A platform for tracking ships and maritime traffic globally.
 - [Flightradar24](https://www.flightradar24.com) — A flight tracking service that provides real-time information on air traffic.
 - [WifiSPC](https://wifispc.com) — A web application that displays nearby Wi-Fi networks and hotspots.
