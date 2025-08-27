@@ -12,6 +12,7 @@
 - [Da.gd](https://da.gd) — A URL shortener with various other utilities.
 - [Riseup Pad](https://pad.riseup.net) — A real-time collaborative text editor for group work and brainstorming.
 - [Browserling](https://www.browserling.com) — An online cross-browser testing tool.
+- [AppOnFly](https://app.apponfly.com/trial) — A platform for creating ephemeral web sessions.
 
 </details>
 
